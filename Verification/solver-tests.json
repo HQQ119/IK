@@ -1,0 +1,583 @@
+{
+    "unityVersion": "2022.3.62f3c1",
+    "checks": 64,
+    "failures": 0,
+    "results": [
+        {
+            "algorithm": "CCD",
+            "joints": 2,
+            "scenario": "reachable_Q1",
+            "passed": true,
+            "error": 0.0019444271456450225,
+            "rootDrift": 0.0,
+            "lengthError": 1.7881393432617188e-7
+        },
+        {
+            "algorithm": "CCD",
+            "joints": 2,
+            "scenario": "reachable_Q2",
+            "passed": true,
+            "error": 0.0019933374132961036,
+            "rootDrift": 0.0,
+            "lengthError": 4.172325134277344e-7
+        },
+        {
+            "algorithm": "CCD",
+            "joints": 2,
+            "scenario": "reachable_Q3",
+            "passed": true,
+            "error": 0.0017953459173440934,
+            "rootDrift": 0.0,
+            "lengthError": 2.384185791015625e-7
+        },
+        {
+            "algorithm": "CCD",
+            "joints": 2,
+            "scenario": "target_at_root",
+            "passed": true,
+            "error": 0.0,
+            "rootDrift": 0.0,
+            "lengthError": 1.1920928955078126e-7
+        },
+        {
+            "algorithm": "CCD",
+            "joints": 2,
+            "scenario": "unreachable",
+            "passed": true,
+            "error": 2.0,
+            "rootDrift": 0.0,
+            "lengthError": 0.0
+        },
+        {
+            "algorithm": "CCD",
+            "joints": 2,
+            "scenario": "inward_after_stretch",
+            "passed": true,
+            "error": 0.0018481574952602387,
+            "rootDrift": 0.0,
+            "lengthError": 3.5762786865234377e-7
+        },
+        {
+            "algorithm": "CCD",
+            "joints": 2,
+            "scenario": "upwards",
+            "passed": true,
+            "error": 0.0019271374912932516,
+            "rootDrift": 0.0,
+            "lengthError": 3.5762786865234377e-7
+        },
+        {
+            "algorithm": "CCD",
+            "joints": 2,
+            "scenario": "reach_boundary",
+            "passed": true,
+            "error": 0.0,
+            "rootDrift": 0.0,
+            "lengthError": 0.0
+        },
+        {
+            "algorithm": "FABRIK",
+            "joints": 2,
+            "scenario": "reachable_Q1",
+            "passed": true,
+            "error": 0.000036559809814207256,
+            "rootDrift": 0.0,
+            "lengthError": 5.960464477539063e-8
+        },
+        {
+            "algorithm": "FABRIK",
+            "joints": 2,
+            "scenario": "reachable_Q2",
+            "passed": true,
+            "error": 0.00009842692088568583,
+            "rootDrift": 0.0,
+            "lengthError": 0.0
+        },
+        {
+            "algorithm": "FABRIK",
+            "joints": 2,
+            "scenario": "reachable_Q3",
+            "passed": true,
+            "error": 0.00037492671981453896,
+            "rootDrift": 0.0,
+            "lengthError": 0.0
+        },
+        {
+            "algorithm": "FABRIK",
+            "joints": 2,
+            "scenario": "target_at_root",
+            "passed": true,
+            "error": 0.0,
+            "rootDrift": 0.0,
+            "lengthError": 0.0
+        },
+        {
+            "algorithm": "FABRIK",
+            "joints": 2,
+            "scenario": "unreachable",
+            "passed": true,
+            "error": 2.0,
+            "rootDrift": 0.0,
+            "lengthError": 0.0
+        },
+        {
+            "algorithm": "FABRIK",
+            "joints": 2,
+            "scenario": "inward_after_stretch",
+            "passed": true,
+            "error": 0.0009162763017229736,
+            "rootDrift": 0.0,
+            "lengthError": 5.960464477539063e-8
+        },
+        {
+            "algorithm": "FABRIK",
+            "joints": 2,
+            "scenario": "upwards",
+            "passed": true,
+            "error": 0.0010656521189957858,
+            "rootDrift": 0.0,
+            "lengthError": 5.960464477539063e-8
+        },
+        {
+            "algorithm": "FABRIK",
+            "joints": 2,
+            "scenario": "reach_boundary",
+            "passed": true,
+            "error": 0.0,
+            "rootDrift": 0.0,
+            "lengthError": 0.0
+        },
+        {
+            "algorithm": "CCD",
+            "joints": 5,
+            "scenario": "reachable_Q1",
+            "passed": true,
+            "error": 0.0014107039896771312,
+            "rootDrift": 0.0,
+            "lengthError": 8.344650268554688e-7
+        },
+        {
+            "algorithm": "CCD",
+            "joints": 5,
+            "scenario": "reachable_Q2",
+            "passed": true,
+            "error": 0.001025057048536837,
+            "rootDrift": 0.0,
+            "lengthError": 4.172325134277344e-7
+        },
+        {
+            "algorithm": "CCD",
+            "joints": 5,
+            "scenario": "reachable_Q3",
+            "passed": true,
+            "error": 0.001956793712452054,
+            "rootDrift": 0.0,
+            "lengthError": 8.344650268554688e-7
+        },
+        {
+            "algorithm": "CCD",
+            "joints": 5,
+            "scenario": "target_at_root",
+            "passed": true,
+            "error": 0.0019771086517721416,
+            "rootDrift": 0.0,
+            "lengthError": 9.5367431640625e-7
+        },
+        {
+            "algorithm": "CCD",
+            "joints": 5,
+            "scenario": "unreachable",
+            "passed": true,
+            "error": 2.0,
+            "rootDrift": 0.0,
+            "lengthError": 0.0
+        },
+        {
+            "algorithm": "CCD",
+            "joints": 5,
+            "scenario": "inward_after_stretch",
+            "passed": true,
+            "error": 0.001926411991007626,
+            "rootDrift": 0.0,
+            "lengthError": 9.5367431640625e-7
+        },
+        {
+            "algorithm": "CCD",
+            "joints": 5,
+            "scenario": "upwards",
+            "passed": true,
+            "error": 0.0009869852801784874,
+            "rootDrift": 0.0,
+            "lengthError": 0.000001430511474609375
+        },
+        {
+            "algorithm": "CCD",
+            "joints": 5,
+            "scenario": "reach_boundary",
+            "passed": true,
+            "error": 0.0,
+            "rootDrift": 0.0,
+            "lengthError": 0.0
+        },
+        {
+            "algorithm": "FABRIK",
+            "joints": 5,
+            "scenario": "reachable_Q1",
+            "passed": true,
+            "error": 0.0018114945851266385,
+            "rootDrift": 0.0,
+            "lengthError": 1.7881393432617188e-7
+        },
+        {
+            "algorithm": "FABRIK",
+            "joints": 5,
+            "scenario": "reachable_Q2",
+            "passed": true,
+            "error": 0.00016069474804680794,
+            "rootDrift": 0.0,
+            "lengthError": 0.0
+        },
+        {
+            "algorithm": "FABRIK",
+            "joints": 5,
+            "scenario": "reachable_Q3",
+            "passed": true,
+            "error": 0.00169738894328475,
+            "rootDrift": 0.0,
+            "lengthError": 1.1920928955078126e-7
+        },
+        {
+            "algorithm": "FABRIK",
+            "joints": 5,
+            "scenario": "target_at_root",
+            "passed": true,
+            "error": 0.00005660448732669465,
+            "rootDrift": 0.0,
+            "lengthError": 1.1920928955078126e-7
+        },
+        {
+            "algorithm": "FABRIK",
+            "joints": 5,
+            "scenario": "unreachable",
+            "passed": true,
+            "error": 2.0,
+            "rootDrift": 0.0,
+            "lengthError": 0.0
+        },
+        {
+            "algorithm": "FABRIK",
+            "joints": 5,
+            "scenario": "inward_after_stretch",
+            "passed": true,
+            "error": 0.0001626266457606107,
+            "rootDrift": 0.0,
+            "lengthError": 1.7881393432617188e-7
+        },
+        {
+            "algorithm": "FABRIK",
+            "joints": 5,
+            "scenario": "upwards",
+            "passed": true,
+            "error": 0.0008341557113453746,
+            "rootDrift": 0.0,
+            "lengthError": 1.1920928955078126e-7
+        },
+        {
+            "algorithm": "FABRIK",
+            "joints": 5,
+            "scenario": "reach_boundary",
+            "passed": true,
+            "error": 0.0,
+            "rootDrift": 0.0,
+            "lengthError": 0.0
+        },
+        {
+            "algorithm": "CCD",
+            "joints": 10,
+            "scenario": "reachable_Q1",
+            "passed": true,
+            "error": 0.0016549190040677786,
+            "rootDrift": 0.0,
+            "lengthError": 0.0000016093254089355469
+        },
+        {
+            "algorithm": "CCD",
+            "joints": 10,
+            "scenario": "reachable_Q2",
+            "passed": true,
+            "error": 0.0010853363201022149,
+            "rootDrift": 0.0,
+            "lengthError": 0.0000010132789611816407
+        },
+        {
+            "algorithm": "CCD",
+            "joints": 10,
+            "scenario": "reachable_Q3",
+            "passed": true,
+            "error": 0.0019609679002314808,
+            "rootDrift": 0.0,
+            "lengthError": 0.0000016689300537109376
+        },
+        {
+            "algorithm": "CCD",
+            "joints": 10,
+            "scenario": "target_at_root",
+            "passed": true,
+            "error": 0.0019353593233972788,
+            "rootDrift": 0.0,
+            "lengthError": 0.0000016093254089355469
+        },
+        {
+            "algorithm": "CCD",
+            "joints": 10,
+            "scenario": "unreachable",
+            "passed": true,
+            "error": 2.0,
+            "rootDrift": 0.0,
+            "lengthError": 0.0
+        },
+        {
+            "algorithm": "CCD",
+            "joints": 10,
+            "scenario": "inward_after_stretch",
+            "passed": true,
+            "error": 0.0013430363032966853,
+            "rootDrift": 0.0,
+            "lengthError": 0.0000015497207641601563
+        },
+        {
+            "algorithm": "CCD",
+            "joints": 10,
+            "scenario": "upwards",
+            "passed": true,
+            "error": 0.0018509674118831754,
+            "rootDrift": 0.0,
+            "lengthError": 0.000004470348358154297
+        },
+        {
+            "algorithm": "CCD",
+            "joints": 10,
+            "scenario": "reach_boundary",
+            "passed": true,
+            "error": 0.0,
+            "rootDrift": 0.0,
+            "lengthError": 0.0
+        },
+        {
+            "algorithm": "FABRIK",
+            "joints": 10,
+            "scenario": "reachable_Q1",
+            "passed": true,
+            "error": 0.0008096335222944617,
+            "rootDrift": 0.0,
+            "lengthError": 2.384185791015625e-7
+        },
+        {
+            "algorithm": "FABRIK",
+            "joints": 10,
+            "scenario": "reachable_Q2",
+            "passed": true,
+            "error": 0.0016837338916957379,
+            "rootDrift": 0.0,
+            "lengthError": 1.1920928955078126e-7
+        },
+        {
+            "algorithm": "FABRIK",
+            "joints": 10,
+            "scenario": "reachable_Q3",
+            "passed": true,
+            "error": 0.00007343292236328125,
+            "rootDrift": 0.0,
+            "lengthError": 1.1920928955078126e-7
+        },
+        {
+            "algorithm": "FABRIK",
+            "joints": 10,
+            "scenario": "target_at_root",
+            "passed": true,
+            "error": 0.000007525307864852948,
+            "rootDrift": 0.0,
+            "lengthError": 5.960464477539063e-8
+        },
+        {
+            "algorithm": "FABRIK",
+            "joints": 10,
+            "scenario": "unreachable",
+            "passed": true,
+            "error": 2.0,
+            "rootDrift": 0.0,
+            "lengthError": 0.0
+        },
+        {
+            "algorithm": "FABRIK",
+            "joints": 10,
+            "scenario": "inward_after_stretch",
+            "passed": true,
+            "error": 0.00006429349741665646,
+            "rootDrift": 0.0,
+            "lengthError": 4.172325134277344e-7
+        },
+        {
+            "algorithm": "FABRIK",
+            "joints": 10,
+            "scenario": "upwards",
+            "passed": true,
+            "error": 0.0016849423991516233,
+            "rootDrift": 0.0,
+            "lengthError": 1.7881393432617188e-7
+        },
+        {
+            "algorithm": "FABRIK",
+            "joints": 10,
+            "scenario": "reach_boundary",
+            "passed": true,
+            "error": 0.0,
+            "rootDrift": 0.0,
+            "lengthError": 0.0
+        },
+        {
+            "algorithm": "CCD",
+            "joints": 20,
+            "scenario": "reachable_Q1",
+            "passed": true,
+            "error": 0.001911283703520894,
+            "rootDrift": 0.0,
+            "lengthError": 0.0000050067901611328129
+        },
+        {
+            "algorithm": "CCD",
+            "joints": 20,
+            "scenario": "reachable_Q2",
+            "passed": true,
+            "error": 0.001589591265656054,
+            "rootDrift": 0.0,
+            "lengthError": 0.000005304813385009766
+        },
+        {
+            "algorithm": "CCD",
+            "joints": 20,
+            "scenario": "reachable_Q3",
+            "passed": true,
+            "error": 0.0019397679716348649,
+            "rootDrift": 0.0,
+            "lengthError": 0.0000171661376953125
+        },
+        {
+            "algorithm": "CCD",
+            "joints": 20,
+            "scenario": "target_at_root",
+            "passed": true,
+            "error": 0.0019265947630628944,
+            "rootDrift": 0.0,
+            "lengthError": 0.000017523765563964844
+        },
+        {
+            "algorithm": "CCD",
+            "joints": 20,
+            "scenario": "unreachable",
+            "passed": true,
+            "error": 2.0,
+            "rootDrift": 0.0,
+            "lengthError": 0.0
+        },
+        {
+            "algorithm": "CCD",
+            "joints": 20,
+            "scenario": "inward_after_stretch",
+            "passed": true,
+            "error": 0.0018088616197928787,
+            "rootDrift": 0.0,
+            "lengthError": 0.00000286102294921875
+        },
+        {
+            "algorithm": "CCD",
+            "joints": 20,
+            "scenario": "upwards",
+            "passed": true,
+            "error": 0.0019632414914667608,
+            "rootDrift": 0.0,
+            "lengthError": 0.000014901161193847656
+        },
+        {
+            "algorithm": "CCD",
+            "joints": 20,
+            "scenario": "reach_boundary",
+            "passed": true,
+            "error": 0.0,
+            "rootDrift": 0.0,
+            "lengthError": 0.0
+        },
+        {
+            "algorithm": "FABRIK",
+            "joints": 20,
+            "scenario": "reachable_Q1",
+            "passed": true,
+            "error": 0.0004586469440255314,
+            "rootDrift": 0.0,
+            "lengthError": 3.5762786865234377e-7
+        },
+        {
+            "algorithm": "FABRIK",
+            "joints": 20,
+            "scenario": "reachable_Q2",
+            "passed": true,
+            "error": 0.0016919159097597004,
+            "rootDrift": 0.0,
+            "lengthError": 2.384185791015625e-7
+        },
+        {
+            "algorithm": "FABRIK",
+            "joints": 20,
+            "scenario": "reachable_Q3",
+            "passed": true,
+            "error": 0.0011077410308644176,
+            "rootDrift": 0.0,
+            "lengthError": 2.384185791015625e-7
+        },
+        {
+            "algorithm": "FABRIK",
+            "joints": 20,
+            "scenario": "target_at_root",
+            "passed": true,
+            "error": 0.0007885762606747448,
+            "rootDrift": 0.0,
+            "lengthError": 1.7881393432617188e-7
+        },
+        {
+            "algorithm": "FABRIK",
+            "joints": 20,
+            "scenario": "unreachable",
+            "passed": true,
+            "error": 2.0,
+            "rootDrift": 0.0,
+            "lengthError": 0.0
+        },
+        {
+            "algorithm": "FABRIK",
+            "joints": 20,
+            "scenario": "inward_after_stretch",
+            "passed": true,
+            "error": 0.00007225931767607108,
+            "rootDrift": 0.0,
+            "lengthError": 4.76837158203125e-7
+        },
+        {
+            "algorithm": "FABRIK",
+            "joints": 20,
+            "scenario": "upwards",
+            "passed": true,
+            "error": 0.001676151412539184,
+            "rootDrift": 0.0,
+            "lengthError": 3.5762786865234377e-7
+        },
+        {
+            "algorithm": "FABRIK",
+            "joints": 20,
+            "scenario": "reach_boundary",
+            "passed": true,
+            "error": 0.0,
+            "rootDrift": 0.0,
+            "lengthError": 0.0
+        }
+    ]
+}

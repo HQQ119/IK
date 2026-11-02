@@ -1,0 +1,186 @@
+{
+  "checks": 6,
+  "failures": 0,
+  "results": [
+    {
+      "name": "actual_mouse_drags_end_effector",
+      "passed": true,
+      "state": {
+        "width": 1440,
+        "height": 900,
+        "jointCount": 5,
+        "algorithm": "CCD",
+        "solving": true,
+        "error": 0.0016085283132269979,
+        "rootDrift": 0.0,
+        "lengthError": 1.7881393432617188e-07,
+        "target": {
+          "x": 0.8008976578712463,
+          "y": 1.012872576713562
+        },
+        "end": {
+          "x": 0.8018646240234375,
+          "y": 1.014158010482788
+        },
+        "targetScreen": {
+          "x": 955.7938232421875,
+          "y": 503.1504211425781
+        },
+        "endScreen": {
+          "x": 955.85693359375,
+          "y": 503.2344055175781
+        }
+      }
+    },
+    {
+      "name": "pause_keeps_pose_while_target_moves",
+      "passed": true,
+      "state": {
+        "width": 1440,
+        "height": 900,
+        "jointCount": 5,
+        "algorithm": "CCD",
+        "solving": false,
+        "error": 1.3543167114257812,
+        "rootDrift": 0.0,
+        "lengthError": 1.7881393432617188e-07,
+        "target": {
+          "x": -0.11802259087562561,
+          "y": 2.0081305503845215
+        },
+        "end": {
+          "x": 0.8018646240234375,
+          "y": 1.014158010482788
+        },
+        "targetScreen": {
+          "x": 895.7938232421875,
+          "y": 568.1504516601562
+        },
+        "endScreen": {
+          "x": 955.85693359375,
+          "y": 503.2344055175781
+        }
+      }
+    },
+    {
+      "name": "single_iteration_reduces_error",
+      "passed": true,
+      "state": {
+        "width": 1440,
+        "height": 900,
+        "jointCount": 5,
+        "algorithm": "CCD",
+        "solving": false,
+        "error": 0.2808951735496521,
+        "rootDrift": 0.0,
+        "lengthError": 1.1920928955078125e-07,
+        "target": {
+          "x": -0.11802259087562561,
+          "y": 2.0081305503845215
+        },
+        "end": {
+          "x": -0.1015414297580719,
+          "y": 1.7277193069458008
+        },
+        "targetScreen": {
+          "x": 895.7938232421875,
+          "y": 568.1504516601562
+        },
+        "endScreen": {
+          "x": 896.8699340820312,
+          "y": 549.8369140625
+        }
+      }
+    },
+    {
+      "name": "algorithm_toggle_fabrik",
+      "passed": true,
+      "state": {
+        "width": 1440,
+        "height": 900,
+        "jointCount": 5,
+        "algorithm": "FABRIK",
+        "solving": true,
+        "error": 7.758680294500664e-05,
+        "rootDrift": 0.0,
+        "lengthError": 2.384185791015625e-07,
+        "target": {
+          "x": -0.11802259087562561,
+          "y": 2.0081305503845215
+        },
+        "end": {
+          "x": -0.11809569597244263,
+          "y": 2.0081045627593994
+        },
+        "targetScreen": {
+          "x": 895.7938232421875,
+          "y": 568.1504516601562
+        },
+        "endScreen": {
+          "x": 895.7890625,
+          "y": 568.1488037109375
+        }
+      }
+    },
+    {
+      "name": "joint_count_ui_rebuilds_eight",
+      "passed": true,
+      "state": {
+        "width": 1440,
+        "height": 900,
+        "jointCount": 8,
+        "algorithm": "FABRIK",
+        "solving": true,
+        "error": 0.0008548147743567824,
+        "rootDrift": 0.0,
+        "lengthError": 2.384185791015625e-07,
+        "target": {
+          "x": 4.320000171661377,
+          "y": 3.359999895095825
+        },
+        "end": {
+          "x": 4.320741653442383,
+          "y": 3.359574556350708
+        },
+        "targetScreen": {
+          "x": 1079.793701171875,
+          "y": 574.1504516601562
+        },
+        "endScreen": {
+          "x": 1079.8240966796875,
+          "y": 574.133056640625
+        }
+      }
+    },
+    {
+      "name": "default_five_joint_ccd_restored",
+      "passed": true,
+      "state": {
+        "width": 1440,
+        "height": 900,
+        "jointCount": 5,
+        "algorithm": "CCD",
+        "solving": true,
+        "error": 0.0006541296024806798,
+        "rootDrift": 0.0,
+        "lengthError": 2.384185791015625e-07,
+        "target": {
+          "x": 2.700000047683716,
+          "y": 2.0999999046325684
+        },
+        "end": {
+          "x": 2.699540138244629,
+          "y": 2.1004650592803955
+        },
+        "targetScreen": {
+          "x": 1079.793701171875,
+          "y": 574.1504516601562
+        },
+        "endScreen": {
+          "x": 1079.763671875,
+          "y": 574.1807861328125
+        }
+      }
+    }
+  ]
+}

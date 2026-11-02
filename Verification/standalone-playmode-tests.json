@@ -1,0 +1,247 @@
+{
+    "unityVersion": "2022.3.62f3c1",
+    "checks": 30,
+    "failures": 0,
+    "results": [
+        {
+            "name": "CCD_reachable",
+            "passed": true,
+            "error": 0.0014915138017386199,
+            "rootDrift": 0.0,
+            "lengthError": 0.0,
+            "joints": 2
+        },
+        {
+            "name": "CCD_opposite_side",
+            "passed": true,
+            "error": 0.0016045105876401067,
+            "rootDrift": 0.0,
+            "lengthError": 1.1920928955078126e-7,
+            "joints": 2
+        },
+        {
+            "name": "CCD_unreachable",
+            "passed": true,
+            "error": 1.0,
+            "rootDrift": 0.0,
+            "lengthError": 0.0,
+            "joints": 2
+        },
+        {
+            "name": "CCD_inward_recovery",
+            "passed": true,
+            "error": 0.001859548152424395,
+            "rootDrift": 0.0,
+            "lengthError": 5.960464477539063e-8,
+            "joints": 2
+        },
+        {
+            "name": "CCD_at_root",
+            "passed": true,
+            "error": 8.742277657347586e-8,
+            "rootDrift": 0.0,
+            "lengthError": 0.0,
+            "joints": 2
+        },
+        {
+            "name": "FABRIK_reachable",
+            "passed": true,
+            "error": 0.000602013140451163,
+            "rootDrift": 0.0,
+            "lengthError": 0.0,
+            "joints": 2
+        },
+        {
+            "name": "FABRIK_opposite_side",
+            "passed": true,
+            "error": 0.0013022550847381354,
+            "rootDrift": 0.0,
+            "lengthError": 0.0,
+            "joints": 2
+        },
+        {
+            "name": "FABRIK_unreachable",
+            "passed": true,
+            "error": 1.0,
+            "rootDrift": 0.0,
+            "lengthError": 0.0,
+            "joints": 2
+        },
+        {
+            "name": "FABRIK_inward_recovery",
+            "passed": true,
+            "error": 0.0009162499918602407,
+            "rootDrift": 0.0,
+            "lengthError": 0.0,
+            "joints": 2
+        },
+        {
+            "name": "FABRIK_at_root",
+            "passed": true,
+            "error": 3.8941436741879445e-7,
+            "rootDrift": 0.0,
+            "lengthError": 0.0,
+            "joints": 2
+        },
+        {
+            "name": "CCD_reachable",
+            "passed": true,
+            "error": 0.0018801408587023616,
+            "rootDrift": 0.0,
+            "lengthError": 2.384185791015625e-7,
+            "joints": 5
+        },
+        {
+            "name": "CCD_opposite_side",
+            "passed": true,
+            "error": 0.0009761099936440587,
+            "rootDrift": 0.0,
+            "lengthError": 2.980232238769531e-7,
+            "joints": 5
+        },
+        {
+            "name": "CCD_unreachable",
+            "passed": true,
+            "error": 1.0,
+            "rootDrift": 0.0,
+            "lengthError": 0.0,
+            "joints": 5
+        },
+        {
+            "name": "CCD_inward_recovery",
+            "passed": true,
+            "error": 0.0018503852188587189,
+            "rootDrift": 0.0,
+            "lengthError": 2.980232238769531e-7,
+            "joints": 5
+        },
+        {
+            "name": "CCD_at_root",
+            "passed": true,
+            "error": 0.0018189639085903764,
+            "rootDrift": 0.0,
+            "lengthError": 1.1920928955078126e-7,
+            "joints": 5
+        },
+        {
+            "name": "FABRIK_reachable",
+            "passed": true,
+            "error": 0.0008114111260510981,
+            "rootDrift": 0.0,
+            "lengthError": 2.384185791015625e-7,
+            "joints": 5
+        },
+        {
+            "name": "FABRIK_opposite_side",
+            "passed": true,
+            "error": 0.00010878577450057492,
+            "rootDrift": 0.0,
+            "lengthError": 2.384185791015625e-7,
+            "joints": 5
+        },
+        {
+            "name": "FABRIK_unreachable",
+            "passed": true,
+            "error": 1.0,
+            "rootDrift": 0.0,
+            "lengthError": 0.0,
+            "joints": 5
+        },
+        {
+            "name": "FABRIK_inward_recovery",
+            "passed": true,
+            "error": 0.00016191147733479738,
+            "rootDrift": 0.0,
+            "lengthError": 3.5762786865234377e-7,
+            "joints": 5
+        },
+        {
+            "name": "FABRIK_at_root",
+            "passed": true,
+            "error": 0.0004134260816499591,
+            "rootDrift": 0.0,
+            "lengthError": 2.384185791015625e-7,
+            "joints": 5
+        },
+        {
+            "name": "CCD_reachable",
+            "passed": true,
+            "error": 0.0016127193812280894,
+            "rootDrift": 0.0,
+            "lengthError": 0.0000032186508178710939,
+            "joints": 20
+        },
+        {
+            "name": "CCD_opposite_side",
+            "passed": true,
+            "error": 0.001914907363243401,
+            "rootDrift": 0.0,
+            "lengthError": 0.0000025033950805664064,
+            "joints": 20
+        },
+        {
+            "name": "CCD_unreachable",
+            "passed": true,
+            "error": 1.0,
+            "rootDrift": 0.0,
+            "lengthError": 0.0,
+            "joints": 20
+        },
+        {
+            "name": "CCD_inward_recovery",
+            "passed": true,
+            "error": 0.0013006726512685419,
+            "rootDrift": 0.0,
+            "lengthError": 0.0000011920928955078126,
+            "joints": 20
+        },
+        {
+            "name": "CCD_at_root",
+            "passed": true,
+            "error": 0.0011929600732401014,
+            "rootDrift": 0.0,
+            "lengthError": 8.344650268554688e-7,
+            "joints": 20
+        },
+        {
+            "name": "FABRIK_reachable",
+            "passed": true,
+            "error": 0.00015307884314097464,
+            "rootDrift": 0.0,
+            "lengthError": 0.000003337860107421875,
+            "joints": 20
+        },
+        {
+            "name": "FABRIK_opposite_side",
+            "passed": true,
+            "error": 0.0009715470368973911,
+            "rootDrift": 0.0,
+            "lengthError": 0.0000034570693969726564,
+            "joints": 20
+        },
+        {
+            "name": "FABRIK_unreachable",
+            "passed": true,
+            "error": 1.0,
+            "rootDrift": 0.0,
+            "lengthError": 0.0,
+            "joints": 20
+        },
+        {
+            "name": "FABRIK_inward_recovery",
+            "passed": true,
+            "error": 0.00007571430614916608,
+            "rootDrift": 0.0,
+            "lengthError": 0.00000286102294921875,
+            "joints": 20
+        },
+        {
+            "name": "FABRIK_at_root",
+            "passed": true,
+            "error": 0.0012883772142231465,
+            "rootDrift": 0.0,
+            "lengthError": 0.0000015497207641601563,
+            "joints": 20
+        }
+    ]
+}
